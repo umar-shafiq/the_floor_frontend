@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #000000;
+  color: #fff;
+}
+h1{
+  font-family:Bangers;
+
+}
+/* .fix{
+  border: 2px solid red;
+} */
+.inter{
+  font-family: inter !important;
+}
+p{
+  font-family: roboto;
+  margin-bottom:0 !important;
+}
